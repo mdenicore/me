@@ -27,7 +27,6 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.facebook.com/mike.denicore" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://www.linkedin.com/in/michaeldenicore/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                <li><a href="https://github.com/mdenicore" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
