@@ -21,8 +21,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Principal Application Developer/Architect at ADP<span>2011-present</span></h2>
-                        <p></p>
+                        <h2>Principal Application Developer/Architect at ADP<span>&nbsp;2011-present</span></h2>
+                        <p>Providing the technical design and development of enterprise applications to support the
+migration, integration, and implementation of over 120k clients on ADP’s SOA.</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +33,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Development Manager at ADP<span>2005-2011</span></h2>
-                        <p></p>
+                        <h2>Development Manager at ADP<span>&nbsp;2005-2011</span></h2>
+                        <p>Development manager for team of 20+ local and offshore developers delivering J2EE-based
+Web2.0 HCM solutions on ADP’s Portal.</p>
                       </div>
                     </div>
                   </article>
@@ -43,19 +45,21 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Senior Developer at ADP<span>2003-2015</span></h2>
-                        <p></p> 
+                        <h2>Senior Developer at ADP<span>&nbsp;2002-2005</span></h2>
+                        <p>Full-stack solution developer responsible for delivering Java EE applications providing a PEO
+solution for clients to manage hr, benefits, and payroll.</p> 
                       </div>
                     </div>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
+                      <div className="timeline-icon color-6">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Solution Developer at Enterpulse<span>2003-2015</span></h2>
-                        <p></p> 
+                        <h2>Solution Developer at Enterpulse<span>&nbsp;2000-2002</span></h2>
+                        <p>Consultant in the design and development of custom web and client-server solutions utilizing
+various technologies for clients including www.bankersbank.com and www.bancintelligence.com.</p> 
                       </div>
                     </div>
                   </article>

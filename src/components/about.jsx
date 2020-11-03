@@ -11,7 +11,7 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I am an innovative solutions engineer with over 20 years experience providing the development,
 analysis, design, and leadership for the consistent delivery of impactful business enterprise
@@ -39,67 +39,35 @@ solutions. Proven skills in mentoring and leading development teams.</p>
                 </span>
                 <div className="desc">
                     <h3>Web Development</h3>
-                    <p>I have experience building web application using Java, JavaScript, React, HTML, CSS</p>
+                    <p>Over 20 years experience delivering enterprise web applications using Java, Spring MVC, JPA, REST, Microservices, SQL, PL/SQL, JavaScript ES6, HTML5, CSS3, React, Redux, and Oracle.
+                    </p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-cloud4" />
                 </span>
                 <div className="desc">
                     <h3>Integrations & Migrations</h3>
-                    <p></p>
+                    <p>Experience in the design, build, and delivery of Microservices utilizing Spring Boot, Spring MVC, Kafka, and PL/SQL to support the
+migration and integration of enterprise applications.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Leadership</h3>
-                    <p></p>
-                </div>
-                </div>
-            </div>
-            {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                <span className="icon">
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
+                    <h3>Leadership</h3>
+                    <p>Proven skills in mentoring and leading development teams. Scrum Master for team delivering application for self-service integration of enterprise
+applications across the ADP enterprise.</p>
                 </div>
                 </div>
             </div>
-            */}
             </div>
         </div>
         </section>
