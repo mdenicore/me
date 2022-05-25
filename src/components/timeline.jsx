@@ -15,13 +15,27 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Lead Software Engineer at LifeLens Technologies<span>&nbsp;2020-present</span></h2>
+                        <p>Leading the design and delivery of medical software SPA and mobile applications utilizing 
+                          Java, Kotlin, React/NodeJS and REST SOA. Mentoring Junior Software Engineers in the design and delivery of 
+                          React, NodeJS, and Android applications.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Principal Application Developer/Architect at ADP<span>&nbsp;2011-present</span></h2>
+                        <h2>Principal Application Architect at ADP<span>&nbsp;2011-2020</span></h2>
                         <p>Providing the technical design and development of enterprise applications to support the
 migration, integration, and implementation of over 120k clients on ADP’s SOA.</p>
                       </div>
@@ -53,7 +67,7 @@ solution for clients to manage hr, benefits, and payroll.</p>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-6">
+                      <div className="timeline-icon color-2">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">

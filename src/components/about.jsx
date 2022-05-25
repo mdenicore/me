@@ -28,44 +28,41 @@ solutions.</p>
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <h2 className="colorlib-heading">Here is some of my expertise</h2>
             </div>
             </div>
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
-                <span className="icon">
-                    <i className="icon-bulb" />
-                </span>
-                <div className="desc">
-                    <h3>Web Development</h3>
-                    <p>Over 20 years experience delivering enterprise web applications using Java, Spring MVC, JPA, REST, Microservices, SQL, PL/SQL, JavaScript ES6, HTML5, CSS3, React, Redux, and Oracle.
-                    </p>
-                </div>
+                    <span className="icon">
+                        <i className="icon-world" />
+                    </span>
+                    <div className="desc">
+                        <h3>Web Development</h3>
+                        <p>Several years experience delivering world-class enterprise web and mobile applications utilizing Java, JavaScript ES6, HTML5, CSS3, React, Redux, Kotlin, and Android.</p>
+                    </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
-                <span className="icon">
-                    <i className="icon-cloud4" />
-                </span>
-                <div className="desc">
-                    <h3>Integrations & Migrations</h3>
-                    <p>Experience in the design, build, and delivery of Microservices utilizing Spring Boot, Spring MVC, Kafka, and PL/SQL to support the
-migration and integration of enterprise applications.</p>
-                </div>
+                    <span className="icon">
+                        <i className="icon-cloud4" />
+                    </span>
+                    <div className="desc">
+                        <h3>Integrations</h3>
+                        <p>Experience in the design, build, and delivery of Microservices utilizing Spring Boot, Spring MVC, REST, Kafka, JPA, and PL/SQL to support the backend integration of enterprise applications.</p>
+                    </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Leadership</h3>
-                    <p>Proven skills in mentoring and leading development teams. Scrum Master for team delivering application for self-service integration of enterprise
-applications across the ADP enterprise.</p>
-                </div>
+                    <span className="icon">
+                        <i className="icon-star" />
+                    </span>
+                    <div className="desc">
+                        <h3>Leadership</h3>
+                        <p>Proven skills in mentoring and leading development teams. Scrum Master for team delivering application for self-service integration of enterprise applications across the ADP enterprise.</p>
+                    </div>
                 </div>
             </div>
             </div>
